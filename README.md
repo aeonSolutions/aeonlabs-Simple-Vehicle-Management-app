@@ -14,7 +14,7 @@
 
 This is a simple C# windows application i coded in a few days for a "PeoplePerHour" Gig . 
 
-The code facto F grade is due to  code bracket {} coding style
+The code facto F grade is due to  code bracket { } coding style
 
 
 <p align="center">
